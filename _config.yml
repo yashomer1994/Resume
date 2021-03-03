@@ -85,10 +85,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: X-Biz Techventures Pvt. Ltd.
+        sub_title: Security Researcher
+        caption: 2020 - Present 
+        link: https://www.xbizventures.com
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs

@@ -67,6 +67,7 @@ content:
         title: Emotet Malware Analysis
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Emotet Malware Analysis
+        icon: fab fa-github
 
         description: | # this will include new lines to allow paragraphs
           I  love to do research on low level exploits such as :

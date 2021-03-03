@@ -68,13 +68,6 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
 
-        description: | # this will include new lines to allow paragraphs
-          I  love to do research on low level exploits such as :
-          - Linux
-          - Windows
-          - Malware Analysis
-          - Memory Forensics
-          
         content:
       - layout: left
         title: Emotet Malware Analysis

@@ -76,10 +76,10 @@ content:
           #- title: Explore the World of Vulnerabilities
            #icon: fab fa-github
             #url: MY Security Research Blog (https://yashomer1994.github.io/yash007.github.io/)
-        quote: >
-          Research Blogs are Related to Low Level Exploits.
+        #quote: >
+         # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
-          I try to do my researh on low level exploits such as :
+          I  to do research on low level exploits such as :
           - Linux
           - Windows
           - Malware Analysis

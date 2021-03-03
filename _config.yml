@@ -93,7 +93,7 @@ content:
         quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        I Work as Security Researcher
+          I Work as Security Researcher.
 
   - title: Education
     layout: list

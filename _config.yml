@@ -90,7 +90,15 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
         link_text: Basic Forensics
         icon: fab fa-github
-            
+
+        content:
+      - layout: right
+        title: Flare On Challenge - 03
+        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
+        link_text: Challenge - 03
+        icon: fab fa-github
+
         content:
       - layout: right
         title: Ancillary Function Driver 

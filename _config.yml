@@ -93,15 +93,7 @@ content:
         quote: >
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        I work as a Security Researcher. 
-                    My Roles:
-                    1. VAPT.
-                    2. Red Teaming.
-                    3. Malware Analysis.
-                    4. Vulnerability Assesment.
-                    5. Threat Analysis.
-                    6. Android Peneteration Testing.
-                    7. iOS Penetration Testing.
+        I Work as Security Researcher
 
   - title: Education
     layout: list

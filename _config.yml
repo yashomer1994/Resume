@@ -110,9 +110,9 @@ content:
 
 
 
-         #- title: Emotet Malware Analysis
-          # icon: fab fa-github
-           #url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+          title: Emotet Malware Analysis
+          icon: fab fa-github
+          url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
         
         #- title: Windows Stack Based Overflow
          #  icon: fab fa-github

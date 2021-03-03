@@ -67,10 +67,10 @@ content:
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
-        #additional_links:
-         #- title:  Research Blogs(eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        additional_links:
+         - title:  Emotet Malware Analysis(eg. sproogen/modern-resume-theme)
+           icon: fab fa-github
+           url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
           #- title: Explore the World of Vulnerabilities
            #icon: fab fa-github
             #url: MY Security Research Blog (https://yashomer1994.github.io/yash007.github.io/)

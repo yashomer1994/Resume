@@ -105,14 +105,22 @@ content:
         link_text: Challenge - 02
         icon: fab fa-github
     
+        content:
+      - layout: left
+        title: Basic Forensics
+        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        link_text: Basic Forensics
+        icon: fab fa-github
+    
       
 
 
 
 
-          title: Emotet Malware Analysis
-          icon: fab fa-github
-          url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+         #- title: Emotet Malware Analysis
+          # icon: fab fa-github
+           #url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
         
         #- title: Windows Stack Based Overflow
          #  icon: fab fa-github

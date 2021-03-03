@@ -104,7 +104,7 @@ content:
         link_text: Ancillary Function Driver
 
         content:
-      - layout: left
+      - layout: right
         title: Flare On Challenge - 01  
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html

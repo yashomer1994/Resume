@@ -125,6 +125,11 @@ content:
         sub_title: Security Researcher
         caption: 2019 - Present 
         link: https://www.xbizventures.com
+        - layout: right
+        title: CDAC
+        sub_title: Security Researcher
+        caption: 2019 - Present 
+        link: https://www.xbizventures.com
         quote: >
          
         description: | # this will include new lines to allow paragraphs

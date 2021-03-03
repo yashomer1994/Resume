@@ -53,7 +53,10 @@ additional_links:
 about_profile_image: "images/profile.png"
 about_content: | # this will include new lines to allow paragraphs
   Hi I am Yash Omer and I am Security Researcher. WIth  Good Experience in Development of Operating Systems Internals and x86_64 / arm64 Architecture.
-
+        - Linux Kernel Internals.
+        - Windows System Internals. 
+        - Apple Platform Internals.
+        - Android OS Internals.
 content:
   - title: Research Blogs # Title for the section
     layout: list # Type of content section (list/text)

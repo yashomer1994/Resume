@@ -132,21 +132,7 @@ content:
        3. Implementing TPM.
        4. Contributing in Linux Commun
   
- - title: Certification
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-     I have done 6 Months Academic Internship from CDAC Chennai , India.
-     
-    description: 
-
-      My Role: Intern
-       1. Writing Kernel Device driver.
-       2. Testing the Selinux Policy.
-       3. Implementing TPM.
-       4. Contributing in Linux Community.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+ 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)

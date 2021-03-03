@@ -63,12 +63,12 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      
+      - layout: left
         title: Emotet Malware Analysis
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Emotet Malware Analysis
         icon: fab fa-github
-
+            
         content:
       - layout: left
         title: Windows Stack Based Overflow
@@ -93,14 +93,14 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: right
+      - layout: left
         title: Ancillary Function Driver 
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
 
         content:
-      - layout: right
+      - layout: left
         title: Flare On Challenge - 01  
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
@@ -108,7 +108,7 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: right
+      - layout: left
         title: Flare On Challenge - 02
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html

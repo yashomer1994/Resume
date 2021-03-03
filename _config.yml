@@ -68,12 +68,12 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
         additional_links:
-         title:  Research Blogs
+         - title: Emotet Malware Analysis
            icon: fab fa-github
-           url: https://yashomer1994.github.io/yash007.github.io/
-          #- title: Explore the World of Vulnerabilities
-           #icon: fab fa-github
-            #url: MY Security Research Blog (https://yashomer1994.github.io/yash007.github.io/)
+           url: Emotet Malware https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+          - title: Windows Stack Based Overflow
+           icon: fab fa-github
+            url: Windows Stack Based Exploit https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
         #quote: >
          # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs

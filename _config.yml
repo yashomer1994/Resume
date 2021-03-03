@@ -141,17 +141,7 @@ content:
         caption: 2019 - Present 
         link: https://www.xbizventures.com
 
-
-    
-    content :
-      - layout: right
-        title: X-Biz Techventures Pvt. Ltd.
-        sub_title: Security Researcher
-        caption: 2019 - Present 
-        link: https://www.xbizventures.com
-
-
-        
+        quote: >
          
         description: | # this will include new lines to allow paragraphs
           I Work as Security Researcher. I have experience with Leading Multiple Projects.
@@ -164,6 +154,15 @@ content:
            - Threat Analysis.
            - Android Penetration Testing.
            - iOS Penetration Testing.
+
+    Content:
+      - layout: right
+        title: X-Biz Techventures Pvt. Ltd
+        sub_title: Security Researcher
+        caption: 2019 - Present 
+        link: https://www.xbizventures.com
+
+
 
   - title: Education
     layout: list

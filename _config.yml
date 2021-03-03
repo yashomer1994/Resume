@@ -115,23 +115,6 @@ content:
         link_text: Challenge - 02
         icon: fab fa-github
     
-        
-      
-
-
-
-
-         #- title: Emotet Malware Analysis
-          # icon: fab fa-github
-           #url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-        
-        #- title: Windows Stack Based Overflow
-         #  icon: fab fa-github
-            #url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-        #quote: >
-         # Research Blogs are Related to Low Level Exploits.
-        
-
   - title: Experience
     layout: list
     content:
@@ -155,6 +138,8 @@ content:
            - Android Penetration Testing.
            - iOS Penetration Testing.
 
+- title: Experience
+    layout: list
     Content:
       - layout: right
         title: X-Biz Techventures Pvt. Ltd

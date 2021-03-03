@@ -62,7 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    icon: fab fa-github
     content:
       - layout: left
         title: Emotet Malware Analysis
@@ -90,13 +89,20 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
 
-       
         content:
       - layout: right
         title: Flare On Challenge - 01  
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
         link_text: Challenge - 01
+        icon: fab fa-github
+
+        content:
+      - layout: right
+        title: Flare On Challenge - 02
+        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html
+        link_text: Challenge - 02
         icon: fab fa-github
     
       

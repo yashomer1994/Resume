@@ -62,11 +62,13 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Explore the World of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/
-        link_text: My Security Research Blog 
+     description: | # this will include new lines to allow paragraphs
+          I  love to do research on low level exploits such as :
+          - Linux
+          - Windows
+          - Malware Analysis
+          - Memory Forensics
+          
 
         content:
       - layout: left
@@ -74,6 +76,16 @@ content:
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Emotet Malware Analaysis
+
+
+       content:
+      - layout: right
+        title: Flare On Challenge - 01  
+        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
+        link_text: Challenge - 01
+
+        
 
         content:
       - layout: right
@@ -89,8 +101,7 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
 
-       
-        content:
+       content:
       - layout: right
         title: Flare On Challenge - 01  
         icon: fab fa-github

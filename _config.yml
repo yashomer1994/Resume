@@ -67,6 +67,7 @@ content:
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
+        
         additional_links:
         - layout: right
           title: Emotet Malware Analysis

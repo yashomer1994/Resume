@@ -92,7 +92,7 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: right
+      - layout: left
         title: Flare On Challenge - 03
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html

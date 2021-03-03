@@ -90,19 +90,13 @@ content:
         link_text: Windows Stack Based 
         
         content:
-      - layout: left
-        title: Ancillary Function Driver 
-        icon: fab fa-github
-        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
-        link_text: Ancillary Function Driver
-
-        content:
       - layout: right
         title: Ancillary Function Driver 
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
 
+       
         content:
       - layout: right
         title: Flare On Challenge - 01  

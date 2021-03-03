@@ -63,20 +63,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-right
-        title: Explore the world of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        link_text: test
-        link : https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        link_text: Explore the world of Vulnerabilities
-        icon: fab fa-github
-        additional_links:
-          - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            link_text: Emotet Malware Analysis
-            url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-          
-    content:
       - layout: top-left
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
@@ -87,6 +73,7 @@ content:
             icon: fab fa-github
             link_text: Emotet Malware Analysis
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+            link_name: emotet
           
 
           - title:  Github page for project (eg. sproogen/modern-resume-theme)

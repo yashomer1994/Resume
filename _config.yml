@@ -6,21 +6,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Yash Omer
+title: Security Researcher
+email: yashomer0007@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +917302872222
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://yashomer1994.github.io/yash007.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: yash_omer
+github_username:  https:/yashomer1994
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll

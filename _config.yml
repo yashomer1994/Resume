@@ -115,6 +115,8 @@ content:
         link_text: Challenge - 02
         icon: fab fa-github
     
+        
+
   - title: Experience
     layout: list
     content:
@@ -138,11 +140,14 @@ content:
            - Android Penetration Testing.
            - iOS Penetration Testing.
 
-      - layout: right
-        title: X-Biz Techventures Pvt. Ltd
-        sub_title: Security Researcher
-        caption: 2019 - Present 
-        link: cdac
+      Content:
+       - layout: right
+          title: X-Biz Techventures Pvt. Ltd
+         sub_title: Security Researcher
+          caption: 2019 - Present 
+          link: cdac
+
+         quote: >
 
 
 

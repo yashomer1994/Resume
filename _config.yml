@@ -66,6 +66,7 @@ content:
       - layout: top-right
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        link_text: test
         link : https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
         icon: fab fa-github

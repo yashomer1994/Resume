@@ -62,6 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
+    icon: fab fa-github
     content:
       - layout: left
         title: Emotet Malware Analysis

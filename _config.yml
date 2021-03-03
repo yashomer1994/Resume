@@ -68,10 +68,10 @@ content:
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: Link Text
-        #additional_links:
-         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title: Explore the World of Vulnerabilities
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/

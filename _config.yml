@@ -75,11 +75,9 @@ content:
             link_text: Emotet Malware Analysis
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
             link_text: Emotet Malware Analysis
-          
-
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
             
        
 

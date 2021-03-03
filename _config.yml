@@ -67,12 +67,12 @@ content:
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
-        #additional_links:
-        content:
+        additional_links:
       - layout: right
         title: Emotet Malware Analysis
-        icon: fab fa-github
+        #icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        icon: fab fa-github
         link_text: Emotet Malware Analaysis
 
          #- title: Emotet Malware Analysis

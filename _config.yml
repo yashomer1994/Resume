@@ -94,6 +94,13 @@ content:
          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           I Work as Security Researcher.
+           - VAPT.
+           - Red Teaming.
+           - Malware Analysis.
+           - Vulnerability Assesment.
+           - Threat Analysis.
+           - Android Penetration Testing.
+           - iOS Penetration Testing.
 
   - title: Education
     layout: list

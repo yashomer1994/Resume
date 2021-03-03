@@ -34,10 +34,10 @@ linkedin_username: http://linkedin.com/in/yash-omer-653636205
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+ # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -66,7 +66,6 @@ content:
       - layout: left
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
-        icon: fab fa-github
         link_text: My Security Research Blog 
         #additional_links:
          #- title:  Research Blogs(eg. sproogen/modern-resume-theme)
@@ -78,7 +77,7 @@ content:
         #quote: >
          # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
-          I  to do research on low level exploits such as :
+          I  lov to do research on low level exploits such as :
 
           - Linux
           - Windows

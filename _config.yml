@@ -65,7 +65,6 @@ content:
       - layout: left
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
-        icon: fab fa-github (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
         link_text: My Security Research Blog 
         additional_links:
          - title:  Research Blogs(eg. sproogen/modern-resume-theme)

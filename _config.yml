@@ -69,12 +69,12 @@ content:
         link_text: Emotet Malware Analysis
         icon: fab fa-github
 
-                            description: | # this will include new lines to allow paragraphs
-                              I  love to do research on low level exploits such as :
-                                - Linux
-                                - Windows
-                                - Malware Analysis
-                                - Memory Forensics
+        description: | # this will include new lines to allow paragraphs
+          I  love to do research on low level exploits such as :
+          - Linux
+          - Windows
+          - Malware Analysis
+          - Memory Forensics
       
         content:
       - layout: left
@@ -90,8 +90,7 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
         link_text: Basic Forensics
         icon: fab fa-github
-    
-        
+            
         content:
       - layout: right
         title: Ancillary Function Driver 

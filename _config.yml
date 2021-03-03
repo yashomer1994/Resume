@@ -77,7 +77,7 @@ content:
         link_text: Windows Stack Based 
 
         content:
-      - layout: left
+      - layout: top-left
         title: Basic Forensics
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html

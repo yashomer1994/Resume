@@ -140,6 +140,15 @@ content:
         sub_title: Security Researcher
         caption: 2019 - Present 
         link: https://www.xbizventures.com
+
+      content:
+      - layout: right
+        title: Centre for Development of Advanced Computing (CDAC)
+        sub_title: Intern
+        Role: Writing Linux Kernel Drivers
+        caption: 2017-2018
+        link: https://www.cdac.in
+        
         quote: >
          
         description: | # this will include new lines to allow paragraphs

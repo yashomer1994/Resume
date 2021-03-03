@@ -63,10 +63,11 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Explore the World of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/
-        link_text: My Security Research Blog 
+   - layout: left
+        title: Emotet Malware Analysis
+        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        link_text: Emotet Malware Analaysis
 
         description: | # this will include new lines to allow paragraphs
           I  love to do research on low level exploits such as :
@@ -74,14 +75,7 @@ content:
           - Windows
           - Malware Analysis
           - Memory Forensics
-
-        content:
-      - layout: left
-        title: Emotet Malware Analysis
-        icon: fab fa-github
-        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        link_text: Emotet Malware Analaysis
-
+          
         content:
       - layout: left
         title: Windows Stack Based Overflow

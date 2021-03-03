@@ -85,7 +85,7 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: top-right
+      - layout: left
         title: Flare On Challenge - 03
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
@@ -93,14 +93,14 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: top-right
+      - layout: left
         title: Ancillary Function Driver 
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
 
         content:
-      - layout: top-right
+      - layout: left
         title: Flare On Challenge - 01  
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
@@ -108,7 +108,7 @@ content:
         icon: fab fa-github
 
         content:
-      - layout: top-left
+      - layout: left
         title: Flare On Challenge - 02
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html

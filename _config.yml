@@ -141,6 +141,8 @@ content:
         caption: 2019 - Present 
         link: https://www.xbizventures.com
 
+         quote: >
+
       content:
       - layout: right
         title: Centre for Development of Advanced Computing (CDAC)
@@ -150,6 +152,8 @@ content:
         link: https://www.cdac.in
         
         quote: >
+        
+       
          
         description: | # this will include new lines to allow paragraphs
           I Work as Security Researcher. I have experience with Leading Multiple Projects.

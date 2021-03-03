@@ -77,6 +77,7 @@ content:
          # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
           I  to do research on low level exploits such as :
+         
           - Linux
           - Windows
           - Malware Analysis

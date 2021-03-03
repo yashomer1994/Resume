@@ -52,7 +52,7 @@ linkedin_username: http://linkedin.com/in/yash-omer-653636205
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/profile.png"
 about_content: | # this will include new lines to allow paragraphs
-  Hi I am Yash Omer and I am Security Researcher. WIth  Good Experience in Development of Operating Systems Internals and x86_64 / arm64 Architecture.
+  Hi my name is Yash Omer and I am Security Researcher. With  Good Experience in Development of Operating Systems Internals and x86_64 / arm64 Architecture.
         
           - Linux Kernel Internals.
           - Windows System Internals. 
@@ -67,9 +67,9 @@ content:
         title: Explore the World of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
-        additional_links:
-         - title:  Research Blogs(eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+        #additional_links:
+         #- title:  Research Blogs(eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           #- title: Explore the World of Vulnerabilities
            #icon: fab fa-github

@@ -68,7 +68,7 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: My Security Research Blog 
         additional_links:
-         - title:  Research Blogs
+         title:  Research Blogs
            icon: fab fa-github
            url: https://yashomer1994.github.io/yash007.github.io/
           #- title: Explore the World of Vulnerabilities

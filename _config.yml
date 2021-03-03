@@ -97,7 +97,7 @@ content:
         link_text: Ancillary Function Driver
 
         content:
-      - layout: left
+      - layout: right
         title: Ancillary Function Driver 
         icon: fab fa-github
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html

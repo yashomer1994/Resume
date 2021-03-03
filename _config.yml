@@ -77,13 +77,11 @@ content:
          # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
           I  to do research on low level exploits such as :
-         
+
           - Linux
           - Windows
           - Malware Analysis
           - Memory Forensics
-
-          
   - title: Experience
     layout: list
     content:
@@ -96,7 +94,8 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           I work as a Security Researcher.
-          My Roles:
+          
+        My Roles:
               1. VAPT.
               2. Red Teaming.
               3. Malware Analysis.
@@ -104,6 +103,7 @@ content:
               5. Threat Analysis.
               6. Android Peneteration Testing.
               7 . iOS Penetration Testing.
+              
   - title: Education
     layout: list
     content:

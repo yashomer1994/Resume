@@ -12,7 +12,7 @@ email: yashomer0007@gmail.com
 # email_title: Email (Email title override)
 phone: +917302872222
 # phone_title: Phone (Phone title override)
-website: https://yashomer1994.github.io/yash007.github.io/
+#website: https://yashomer1994.github.io/yash007.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 twitter_username: yash_omer
-github_username:  https:/yashomer1994
+github_username:  yashomer1994
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll

@@ -125,13 +125,16 @@ content:
         sub_title: Security Researcher
         caption: 2019 - Present 
         link: https://www.xbizventures.com
-        - layout: right
-        title: CDAC
+        
+        quote: >
+         
+         content:
+      - layout: right
+        title: X-Biz T
         sub_title: Security Researcher
         caption: 2019 - Present 
         link: https://www.xbizventures.com
-        quote: >
-         
+
         description: | # this will include new lines to allow paragraphs
           I Work as Security Researcher. I have experience with Leading Multiple Projects.
            

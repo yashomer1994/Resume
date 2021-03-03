@@ -94,6 +94,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           I work as a Security Researcher.
+           
            My Roles:
         
                     1. VAPT.

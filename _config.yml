@@ -72,7 +72,7 @@ content:
          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Explore the World of Vulnerabilities
+          #- title: Explore the World of Vulnerabilities
            icon: fab fa-github
             url: MY Security Research Blog (https://yashomer1994.github.io/yash007.github.io/)
         quote: >

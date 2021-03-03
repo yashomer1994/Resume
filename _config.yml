@@ -82,7 +82,7 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Emotet Malware Analaysis
 
-         content:
+        content:
       - layout: left
         title: Windows Stack Based Overflow
         icon: fab fa-github

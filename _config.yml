@@ -77,9 +77,12 @@ content:
         content:
       - layout: left
         title: Flare On Challenge - 02
-        icon: fab fa-github
+        
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html
-        link_text: Challeneg - 02
+        
+        icon: fab fa-github
+
+        
         
         content:
       - layout: right

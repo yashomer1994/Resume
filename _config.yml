@@ -77,12 +77,12 @@ content:
         #quote: >
          # Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
-          I  lov to do research on low level exploits such as :
-
+          I  love to do research on low level exploits such as :
           - Linux
           - Windows
           - Malware Analysis
           - Memory Forensics
+
   - title: Experience
     layout: list
     content:
@@ -113,12 +113,12 @@ content:
         sub_title: Bachelor of Technology (Information Technology)
         #caption: Date Range (eg. 2016 - 2019)
         quote: >
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  #- title: A Little More About Me
+   # #layout: text
+    #content: | # this will include new lines to allow paragraphs
+     # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      #Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

@@ -71,7 +71,6 @@ content:
          - title: Emotet Malware Analysis
            icon: fab fa-github
            url:  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-           #link_text: Emotet Malware
         - title: Windows Stack Based Overflow
            icon: fab fa-github
             url:  https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html

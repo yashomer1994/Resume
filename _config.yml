@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
         - Apple Platform Internals.
         - Android OS Internals.
 content:
-  - title: Research Blogs # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left

@@ -114,9 +114,25 @@ content:
         sub_title: Bachelor of Technology (Information Technology)
         #caption: Date Range (eg. 2016 - 2019)
         quote: >
+
+  - title: Certification
+    layout: list
+    content:
+      - layout: top-right
+        title: I have done 6 Months Academic Internship from CDAC Chennai , India.
+        
+    description: 
+
+      My Role: Intern
+       1. Writing Kernel Device driver.
+       2. Testing the Selinux Policy.
+       3. Implementing TPM.
+       4. Contributing in Linux Community.
+        #caption: Date Range (eg. 2016 - 2019)
+        quote: >
   
  - title: Certification
-   layout: text
+    layout: text
     content: | # this will include new lines to allow paragraphs
      I have done 6 Months Academic Internship from CDAC Chennai , India.
      

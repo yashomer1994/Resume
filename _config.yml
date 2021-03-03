@@ -77,9 +77,13 @@ content:
            #icon: fab fa-github
             #url: MY Security Research Blog (https://yashomer1994.github.io/yash007.github.io/)
         quote: >
-          Short overview of the project (optional)
+          Research Blogs are Related to Low Level Exploits.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          I try to do my researh on low level exploits such as :
+          - Linux
+          - Windows
+          - Malware Analysis
+          - Memory Forensics
   - title: Experience
     layout: list
     content:

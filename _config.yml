@@ -72,17 +72,13 @@ content:
       - layout: left
         title: Emotet Malware Analysis
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        icon: fab fa-github
-
+        link_text: Emotet Malware Analaysis
+        
         content:
       - layout: left
         title: Flare On Challenge - 02
-        
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html
-        
-        icon: fab fa-github
-
-        
+        link_text: Challeneg - 02
         
         content:
       - layout: right

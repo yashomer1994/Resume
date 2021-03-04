@@ -86,8 +86,8 @@ content:
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
         link_text: Memory Forensic Basics
         
-        
-        additional_links:
+    
+  additional_links:
           - layout: list
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github

@@ -65,8 +65,7 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        link_text: 1. Test
-
+        link : Test
         additional_links:
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github

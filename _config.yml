@@ -90,10 +90,7 @@ content:
         
 
   
-  - title: Research Blog # Title for the section
-    layout: list # Type of content section (list/text) 
-    
-        additional_links:
+    - title: Research Blog # Title for the section
           - layout: list
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github

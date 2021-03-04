@@ -99,6 +99,14 @@ content:
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
          
+        # Footer
+footer_show_references: true
+references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
         references_title: 
            - Memory Forensics.
            - Malware Analysis.

@@ -98,14 +98,13 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
-       - layout: list
+
+          **links**:  
            - Memory Forensics.
            - Malware Analysis.
            - Windows Exploits
            - FireEye Challenges 2020
            
-      
-
 
   - title: Experience
     layout: list
@@ -132,18 +131,17 @@ content:
 
        
       
-
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Bharati Vidyapeeth University College of Engineering, Pune
         sub_title: Bachelor of Technology (Information Technology)
-        caption:   Internship - Centre for Development of Advanced Computing
+        caption: Internship - Centre for Development of Advanced Computing
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          I worked as Intern . I have experience performing Multiple Projects.
+          I worked as Intern . I have performed on mulitple activities.
            
             My Roles:
            - Writing Kernel Drivers.
@@ -153,20 +151,11 @@ content:
            - Patching Linux kernel Latest fixes.
            
 
- # - title: Certification
-  #  layout: list
-   # content:
-    #  - layout: top-right
-     #   title: I have done 6 Months Academic Internship from CDAC Chennai , India.
-      #  
-       # #caption: Date Range (eg. 2016 - 2019)
-        #quote: >
-        
       
  
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

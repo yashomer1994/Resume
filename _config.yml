@@ -101,6 +101,7 @@ content:
 
           **links**:  
            - Memory Forensics.
+    icon: fab fa-github
            - Malware Analysis.
            - Windows Exploits
            - FireEye Challenges 2020

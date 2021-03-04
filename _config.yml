@@ -71,8 +71,6 @@ content:
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            link_text: Emotet Malware Analysis
-                    Emotet
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
             link_name: Emotet Malware Analysis
           - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)

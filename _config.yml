@@ -34,8 +34,8 @@ linkedin_username: http://linkedin.com/in/yash-omer-653636205
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Emotet
+#additional_links:
+#- title: Link name
  # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   #url: Link url (eg. https://google.com)
 # - title: another link
@@ -67,17 +67,13 @@ content:
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
-        additional_links:
-          - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-          - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-          - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+    content:   
+    - layout: left
+        title: Explore the world of Vulnerabilities
+        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        link_text: Explore the world of Vulnerabiliti
 
+        
  
   - title: Experience
     layout: list

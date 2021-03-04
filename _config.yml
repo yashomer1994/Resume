@@ -65,8 +65,9 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/
-        link_name: Explore the world of Vulnerabilities
+        link: Explore the world of Vulnerabilities
+        url: https://yashomer1994.github.io/yash007.github.io/
+        
         additional_links:
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github

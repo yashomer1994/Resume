@@ -58,10 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
-
-- [](https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html)
-  
-  
+   
 content:
   - title: Research  # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +79,8 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
        
-  
+  List :
+  1. [https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html](https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html)
 
   - title: Experience
     layout: list

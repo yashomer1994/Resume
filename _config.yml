@@ -67,6 +67,7 @@ content:
         title: Explore the world of Vulnerabilities
         additional_links:
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
+            caprion: Emotet Malware 
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
           - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)

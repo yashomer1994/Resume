@@ -9,11 +9,11 @@ version: 2
 name: Yash Omer
 title: Security Researcher
 email: yashomer0007@gmail.com
-email_title: Email (Email title override)
+#email_title: Email (Email title override)
 phone: + 917302872222
 # phone_title: Phone (Phone title override)
 website: https://yashomer1994.github.io/yash007.github.io/
-website_title: Web (Website title override)
+#website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true

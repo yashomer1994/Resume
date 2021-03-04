@@ -95,7 +95,15 @@ content:
 
             quote: >
 
-        
+- title: Blogs
+    layout: list
+    content:
+      - layout: right
+        title: Bloag
+        sub_title: Security Researcher
+        caption: 2019 - Present 
+        link: https://www.xbizventures.com
+        sub_link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
 

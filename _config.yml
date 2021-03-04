@@ -76,6 +76,10 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
             text: 123
+          - title: Forensic Challenge -01 
+            icon: fab fa-github
+            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_1.html
+
  
   - title: Experience
     layout: list

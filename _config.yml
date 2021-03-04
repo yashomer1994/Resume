@@ -69,10 +69,8 @@ content:
         link_text: Explore the world of Vulnerabilities
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
-            sub_title: Emotet
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-            link_name: Emotet Malware Analysis
           - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html

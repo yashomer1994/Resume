@@ -67,10 +67,7 @@ content:
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: Explore the world of Vulnerabilities
-    content:
-      - layout: top
-        title: Malware Analysis
-        caption: 1.
+   
         
         
         additional_links:

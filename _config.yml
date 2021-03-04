@@ -80,7 +80,10 @@ content:
           - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
-             
+content: 
+  - title: Research Blogs
+    layout: list
+    content:       
   
 
   - title: Experience
@@ -106,7 +109,7 @@ content:
            - Android Penetration Testing.
            - iOS Penetration Testing.
 
-        Research Blogs :
+       
       
 
   - title: Education

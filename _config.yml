@@ -65,8 +65,30 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/
-        link_text: Explore the world of Vulnerabilities
+        layout: list
+    content:
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        link_text: Emotet Malware Analysis
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+        link_text: Windows Stack based  
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        link_text: Memory Forensic Basics
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_1.html
+        link_text: Memory Forensic Challenge - 01 
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
+        link_text: Memory Forensic Challenge - 03
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        link_text: Ancillary Function Driver
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        link_text: Memory Forensic Basics
+        
         
         additional_links:
           - layout: list
@@ -99,11 +121,30 @@ content:
     content:
       - layout: right
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
-        icon: fab fa-github
         link_text: Emotet Malware Analysis
-      - layout: top-left
+      - layout: right
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
         link_text: Windows Stack based  
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        link_text: Memory Forensic Basics
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_1.html
+        link_text: Memory Forensic Challenge - 01 
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
+        link_text: Memory Forensic Challenge - 03
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        link_text: Ancillary Function Driver
+      - layout: right
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        link_text: Memory Forensic Basics
+        
+        
+         
+
+
   
         
 

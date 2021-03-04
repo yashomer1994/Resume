@@ -79,10 +79,10 @@ content:
       - layout: top-left
         link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
         link_text: Memory Forensic Challenge - 03
-      - layout: top-left
+      - layout: top-right
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Ancillary Function Driver
-      - layout: top-left
+      - layout: top-right
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
         link_text: Memory Forensic Basics
       - layout: right

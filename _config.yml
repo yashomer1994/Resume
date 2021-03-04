@@ -70,7 +70,8 @@ content:
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+            url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+            link: test         
           - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html

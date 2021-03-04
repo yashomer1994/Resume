@@ -136,16 +136,15 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          I Work as Security Researcher. I have experience with Leading Multiple Projects.
+          I worked as Intern . I have experience performing Multiple Projects.
            
             My Roles:
            - Writing Kernel Drivers.
-           - Red Teaming.
-           - Malware Analysis.
-           - Vulnerability Assesment.
-           - Threat Analysis.
-           - Android Penetration Testing.
-           - iOS Penetration Testing.
+           - Contributing in Open Source Linux Kernel Community.
+           - Implementing TPM in Linux Kernel.
+           - Building Linux Kernel Mool for Indian Linux Based BOSS Operating System.
+           - Patching Linux kernel Latest fixes.
+           
 
  # - title: Certification
   #  layout: list

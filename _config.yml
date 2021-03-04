@@ -59,11 +59,12 @@ about_content: | # this will include new lines to allow paragraphs
           - Apple Platform Internals.
           - Android OS Internals.
   
+  
+content:
+  - title: Research  # Title for the section
   These are the list of My Researc blogs:
   1. Emotet
 
-content:
-  - title: Research  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-centre

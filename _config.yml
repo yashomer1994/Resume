@@ -98,8 +98,7 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
-    - layout: list
-      title: 
+       - layout: list
            - Memory Forensics.
            - Malware Analysis.
            - Windows Exploits

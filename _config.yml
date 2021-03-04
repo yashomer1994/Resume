@@ -97,12 +97,10 @@ content:
 
         
         description: | # this will include new lines to allow paragraphs
-          You can find my Blogs by clicking the icon :
-           
+        You can find my Blogs by clicking the icon :
             
-        - url:  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+           -  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
            - Contributing in Open Source Linux Kernel Community.
-    
            - Implementing TPM in Linux Kernel.
            - Building Linux Kernel Mool for Indian Linux Based BOSS Operating System.
            - Patching Linux kernel Latest fixes.

@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
-about_content: | # this will include new lines to allow paragraphs
+content: | # this will include new lines to allow paragraphs
   Hi my name is Yash Omer and I am Security Researcher. With  Good Experience in Development of Operating Systems Internals and x86_64 / arm64 Architecture.
         
           - Linux Kernel Internals.

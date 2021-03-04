@@ -101,13 +101,10 @@ content:
         title: Emotet Malware
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Emotet Malware Analysis
-
-    layout: list
-    content:
+        
       - layout: right
-        sub_title: Emotet 
-        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
-        link_text: Emotet Malware Analysis
+        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+        link_text: Windows Stack based  
   
         
 

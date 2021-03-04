@@ -96,10 +96,10 @@ content:
             quote: >
 
         
-        **links**: # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
-
-          **links**:  
+         
+        references_title: 
            - Memory Forensics.
            - Malware Analysis.
            - Windows Exploits

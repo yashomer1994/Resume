@@ -96,8 +96,6 @@ content:
             quote: >
 
         
-        description: | # this will include new lines to allow paragraphs
-         You can find my Blogs by clicking the icon :
     -title: 
            - Memory Forensics.
            - Malware Analysis.

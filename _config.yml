@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
    
 content:
   - title: Research  # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: top-right # Type of content section (list/text)
     content:
       - layout: top-left
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html

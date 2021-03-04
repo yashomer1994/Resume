@@ -65,11 +65,11 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        sub_title: Blogs
-        caption:  Malware Analysis
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: Explore the world of Vulnerabilities
-        sub_caption: test
+    caption: 1. Malware Analysis
+      - layout: top
+        title: Malware Analysis
         
         
         additional_links:

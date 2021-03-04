@@ -98,9 +98,8 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
-
-        references_title: 
-           - [https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html](https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html)
+    -title: 
+           - Memory Forensics.
            - Malware Analysis.
            - Windows Exploits
            - FireEye Challenges 2020

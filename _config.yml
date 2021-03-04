@@ -62,14 +62,11 @@ about_content: | # this will include new lines to allow paragraphs
   
 content:
   - title: Research  # Title for the section
-  These are the list of My Researc blogs:
-  1. Emotet
-
     layout: list # Type of content section (list/text)
     content:
       - layout: top-centre
         title: Explore the world of Vulnerabilities
-        Topics : 1. Emotet
+        link_name: test
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
         icon: fab fa-github

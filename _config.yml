@@ -65,8 +65,6 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        icon: fab fa-github
-        
         additional_links:
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -78,6 +76,8 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
 
+
+            quote: hello
  
   - title: Experience
     layout: list

@@ -85,6 +85,9 @@ content:
       - layout: top-left
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
         link_text: Memory Forensic Basics
+      - layout: top-left
+        link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
+        link_text: Fireeye FlareOn CTF 01 , 2020
 
   
 

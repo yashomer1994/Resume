@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
           - Android OS Internals.
 
 content:
-  - title: Projects # Title for the section
+  - title: Research Blogs # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
@@ -80,10 +80,7 @@ content:
           - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
-content: 
-  - title: Research Blogs
-    layout: list
-    content:       
+       
   
 
   - title: Experience

@@ -64,9 +64,8 @@ content:
   - title: Research  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-centre
+      - layout: top
         title: Explore the world of Vulnerabilities
-        link_name: test
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
         icon: fab fa-github

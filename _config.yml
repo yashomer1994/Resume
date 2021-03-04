@@ -98,9 +98,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Blog
-        sub_title: Emotet Malware
-        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        title: Emotet Malware
+        icon: fab fa-github
+        url: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         description: | # this will include new lines to allow paragraphs
          You can find my Blogs by clicking the icon :
 

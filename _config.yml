@@ -100,7 +100,7 @@ content:
           You can find my Blogs by clicking the icon :
            
             
-        - links:  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        - url:  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
            - Contributing in Open Source Linux Kernel Community.
     
            - Implementing TPM in Linux Kernel.

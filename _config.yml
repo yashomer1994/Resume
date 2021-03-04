@@ -68,11 +68,8 @@ content:
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
+                    1. Mote
         icon: fab fa-github
-        title: Emotet Malware Analysis
-        icon: fab fa-github
-        url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github

@@ -88,7 +88,7 @@ content:
       - layout: top-right
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
         link_text: Fireeye FlareOn CTF 01 , 2020
-      - layout: top-right
+      - layout: 
         link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html
         link_text: Fireeye FlareOn CTF 02, 2020
 

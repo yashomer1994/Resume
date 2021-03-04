@@ -95,10 +95,12 @@ content:
 
             quote: >
 
-        links: | # this will include new lines to allow paragraphs
-          I worked as Intern . I have experience performing Multiple Projects.
+        
+    - title: Links
+        description: | # this will include new lines to allow paragraphs
+          You can find my Blogs by clicking the icon :
            
-            Links:
+            
            -  https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
            - Contributing in Open Source Linux Kernel Community.
            - Implementing TPM in Linux Kernel.

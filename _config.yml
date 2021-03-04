@@ -78,31 +78,7 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
 
-  - title: Research
-    layout: list
-    content:
-      - layout: right
-        title: Explore the world of world
-        sub_title: Security Researcher
-        caption: 2019 - Present 
-        link: https://www.xbizventures.com
-        link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-        
-        quote: >  
-         
-        description: | # this will include new lines to allow paragraphs
-          I Work as Security Researcher. I have experience with Leading Multiple Projects.
-           
-            My Roles:
-           - VAPT.
-           - Red Teaming.
-           - Malware Analysis.
-           - Vulnerability Assesment.
-           - Threat Analysis.
-           - Android Penetration Testing.
-           - iOS Penetration Testing.
-      
-
+ 
   - title: Experience
     layout: list
     content:

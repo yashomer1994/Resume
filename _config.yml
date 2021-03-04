@@ -58,6 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
+          -[https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html](https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html)
 
 content:
   - title: Projects # Title for the section
@@ -71,7 +72,6 @@ content:
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            link_text: [https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html](https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html)
             link_text: Emotet Malware Analysis
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
             link_name: Emotet Malware Analysis

@@ -101,15 +101,15 @@ content:
         title: Emotet Malware
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
         link_text: Emotet Malware Analysis
-        description: | # this will include new lines to allow paragraphs
-         You can find my Blogs by clicking the icon :
 
-        TOPIS:  
-           - Memory Forensics.
-           - Malware Analysis.
-           - Windows Exploits
-           - FireEye Challenges 2020
-           
+    layout: list
+    content:
+      - layout: right
+        title: Emotet 
+        link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        link_text: Emotet Malware Analysis
+  
+        
 
   - title: Experience
     layout: list

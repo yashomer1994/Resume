@@ -54,7 +54,7 @@ about_profile_image: "images/profile.png"
 about_content: | # this will include new lines to allow paragraphs
   Hi my name is Yash Omer and I am Security Researcher. With  Good Experience in Development of Operating Systems Internals and x86_64 / arm64 Architecture.
         
-          - Linux Kernel Internals.
+          - Linux Kernel Internals.[https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html](https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html)
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
@@ -88,9 +88,7 @@ content:
           - title: Ancillary Function Driver
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
-  content:
-  - title: Blogs # Title for the section
-    layout: list #
+      
 
 
   - title: Experience

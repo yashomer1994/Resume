@@ -65,15 +65,16 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-      - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
-        icon: fab fa-github
-        url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
-        icon: fab fa-github
-        url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-      - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-        icon: fab fa-github
-        url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+        additional_links:
+          - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+          - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+          - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+            icon: fab fa-github
+            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
             
  
   - title: Experience

@@ -93,9 +93,8 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
 
-            quote: >
 
-- title: Blogs
+  - title: Blogs
     layout: list
     content:
       - layout: right

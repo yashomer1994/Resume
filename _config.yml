@@ -60,10 +60,10 @@ about_content: | # this will include new lines to allow paragraphs
           - Android OS Internals.
    
 content:
-  - title: Research  # Title for the section
+  - title: Explore the World of Vulnerabilities # Title for the section
     layout: list # Type of content section (list/text)
-    link: https://yashomer1994.github.io/yash007.github.io/
-    link_text: Explore the world of vulnerabilities
+    icon: fab fa-github
+    
     content:
       - layout: top-left
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html

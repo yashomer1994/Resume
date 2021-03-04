@@ -65,8 +65,8 @@ content:
     content:
       - layout: top
         title: Explore the world of Vulnerabilities
-        link: Explore the world of Vulnerabilities
-        icon: fab fa-github
+        link: https://yashomer1994.github.io/yash007.github.io/
+        link_text: Explore the world of Vulnerabilities
         url: https://yashomer1994.github.io/yash007.github.io/
         
         

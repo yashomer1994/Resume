@@ -76,10 +76,10 @@ content:
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
 
-             quote: >  
+            
          
-        description: | # this will include new lines to allow paragraphs
-          I Work as Security Researcher. I have experience with Leading Multiple Projects.
+            description: | # this will include new lines to allow paragraphs
+            I Work as Security Researcher. I have experience with Leading Multiple Projects.
  
   - title: Experience
     layout: list

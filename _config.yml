@@ -58,7 +58,6 @@ about_content: | # this will include new lines to allow paragraphs
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
-          -[https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html](https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html)
 
 content:
   - title: Projects # Title for the section

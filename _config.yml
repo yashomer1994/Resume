@@ -71,6 +71,7 @@ content:
         
         
         additional_links:
+          - layout: list
           - link:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html

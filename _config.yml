@@ -99,6 +99,7 @@ content:
     content:
       - layout: right
         link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+        icon: fab fa-github
         link_text: Emotet Malware Analysis
       - layout: top-left
         link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html

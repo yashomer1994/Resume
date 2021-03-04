@@ -66,10 +66,12 @@ content:
       - layout: top
         title: Explore the world of Vulnerabilities
         sub_title: Blogs
-        caption: 1. Malware Analysis
+        caption:  Malware Analysis
         link: https://yashomer1994.github.io/yash007.github.io/
         link_text: Explore the world of Vulnerabilities
-        lists: 123
+        caption: Forensics
+        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
+        link_text: ex
         
         
         additional_links:

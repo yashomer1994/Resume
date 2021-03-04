@@ -123,8 +123,7 @@ content:
       - layout: top-right
         title: Bharati Vidyapeeth University College of Engineering, Pune
         sub_title: Bachelor of Technology (Information Technology)
-        link_name: CDAC
-        #caption: Date Range (eg. 2016 - 2019)
+        caption: e
         quote: >
 
  # - title: Certification

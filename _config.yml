@@ -63,22 +63,46 @@ content:
   - title: Research  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
-        title: Explore the world of Vulnerabilities
-        link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-        link_text: Explore the world of Vulnerabilities
-        additional_links:
-          - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
-          - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-          - title: Basic Forensics https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
-            icon: fab fa-github
-            url: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+  - layout: top-right
+    title: Windows Stack Based Overflow
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
+    link_text: Windows Stack Based 
+    content:
+  - layout: top-left
+    title: Basic Forensics
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+    link_text: Basic Forensics
+    icon: fab fa-github
+    content:
+  - layout: left
+    title: Flare On Challenge - 03
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/asssembly/python/jpeg/2021/03/03/Forensic-Challenge-03.html
+    link_text: Challenge - 03
+    icon: fab fa-github
+    content:
+  - layout: left
+    title: Ancillary Function Driver 
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/pe/msdos/2021/01/31/Ancillary-Function-Driver.html
+    link_text: Ancillary Function Driver
+    content:  
+  - layout: left
+    title: Flare On Challenge - 01 
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare.html
+    link_text: Challenge - 01
+    icon: fab fa-github
+    content:
+  - layout: left
+    title: Flare On Challenge - 02
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/python/pe/msdos/2021/01/11/Flare-On-2020.html
+    link_text: Challenge - 02
+    icon: fab fa-github
 
- 
   - title: Experience
     layout: list
     content:

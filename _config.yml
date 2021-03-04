@@ -58,6 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
           - Windows System Internals. 
           - Apple Platform Internals.
           - Android OS Internals.
+  
+  These are the list of My Researc blogs:
+  1. Emotet
 
 content:
   - title: Research  # Title for the section

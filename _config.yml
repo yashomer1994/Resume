@@ -61,11 +61,19 @@ about_content: | # this will include new lines to allow paragraphs
    
 content:
   - title: Research  # Title for the section
-    layout: top-right
+    content:
+  - layout: top-right
     title: Windows Stack Based Overflow
     icon: fab fa-github
     link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/2021/01/11/Windows-Stack-Buffer-Overflow.html
     link_text: Windows Stack Based 
+content:
+  - layout: top-left
+    title: Basic Forensics
+    icon: fab fa-github
+    link: https://yashomer1994.github.io/yash007.github.io/c/c++/asssembly/python/2021/02/14/Forensics-Challenge_0.html
+    link_text: Basic Forensics
+    icon: fab fa-github
 
  
   - title: Experience

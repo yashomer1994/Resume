@@ -9,7 +9,7 @@ version: 2
 name: Yash Omer
 title: Security Researcher
 email: yashomer0007@gmail.com
-#email_title: Email (Email title override)
+email_title: Email (Email title override)
 phone: + 917302872222
 # phone_title: Phone (Phone title override)
 website: https://yashomer1994.github.io/yash007.github.io/
@@ -68,12 +68,12 @@ content:
         title: Explore the world of Vulnerabilities
         link: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
         link_text: Explore the world of Vulnerabilities
-                    1. Mote
         icon: fab fa-github
         additional_links:
           - title:  Emotet Malware Analysis (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             link_text: Emotet Malware Analysis
+                    Emotet
             url: https://yashomer1994.github.io/yash007.github.io/c++/assembly/vba/powershell/2021/02/14/Emotet-Malware.html
             link_name: Emotet Malware Analysis
           - title: Windows Stack Based Overflow (eg. sproogen/modern-resume-theme)

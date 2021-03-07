@@ -138,7 +138,7 @@ content:
            
            
 
-- title: Personal Projects
+  - title: Personal Projects
     layout: list
     content:
       - layout: top-right

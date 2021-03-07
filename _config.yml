@@ -136,7 +136,26 @@ content:
            - Building Linux Kernel Mool for Indian Linux Based BOSS Operating System.
            - Patching Linux kernel Latest fixes.
            
+           
 
+- title: Personal Projects
+    layout: list
+    content:
+      - layout: top-right
+        title: Projects
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          I have worked on my personal open source projects such as :
+           
+          
+           - Debugging Linux Kernel using Qemu.
+           - Experience in Building AOSP for different Mobile devices.
+           - Built a custom operating system for IOT device using Busy Box and Tinacore.
+           - Experience with Windows kernel debugging and Security Analysis.
+           - Experience with Docker , Kuberenetes and Containers (LXC).
+           
+           
       
  
 # Footer

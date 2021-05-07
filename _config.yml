@@ -133,9 +133,8 @@ content:
     content:
       - layout: top-right
         title: Bharati Vidyapeeth University College of Engineering, Pune
-        subject: Information Technology (I.T) - 67%
-        sub_title: Bachelor of Technology (Information Technology)
-        caption: Internship - Centre for Development of Advanced Computing
+        sub_title: Bachelor of Technology - (Information Technology) - 67%
+        caption: Internship - Centre for Development of Advanced Computing , Chennai , India
         quote: >
 
         description: | # this will include new lines to allow paragraphs

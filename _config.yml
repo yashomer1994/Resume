@@ -108,25 +108,32 @@ content:
            
             My Roles:
            - Lead Multiple Projects.
-             - Handle the Team and Discussion with Clients.
+             - Handle the Team and Discussion with 11 Banks and Insurance Companies in India.
            - VAPT (Vulnerability Assesment and Penetration Testing)
-             - Performed VAPT On more than 40 Projects.
+             - Performed VAPT On more than 40 Projects of Banks and Insurance Companies.
            - Red Teaming.
-             - 
+             - Performed Red Teaming for more than 5 Banks Quarterly.
            - Malware Analysis.
+             - Worked on Analysing the Malware for Clients.
            - Vulnerability Assesment.
+             - Perfomed VA on Windows / Linux or Newtork of clients and Insurance on Quarterly Basis.
            - Threat Analysis.
-           - Android Penetration Testing.
-           - iOS Penetration Testing.
-           - Breaking the Citrix Workspaces.
-
-       
+             - Performed IDS as Per the client demands.
+           - Android and iOS  Penetration Testing.
+             - Performed Peneteraion Testing on Banks and Insurance Companies Mobile Applications.
+           - Breaking the Citrix and AWS Workspaces.
+             - Breaking Citrix and AWS Workspaces given as or Client Devices.
+             - Data Leakage.
+             - Malware Escape from Anti Virus.
+             - Privilege Escalation.
+             - AWS Metadata.
       
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Bharati Vidyapeeth University College of Engineering, Pune
+        subject: Information Technology (I.T) - 67%
         sub_title: Bachelor of Technology (Information Technology)
         caption: Internship - Centre for Development of Advanced Computing
         quote: >

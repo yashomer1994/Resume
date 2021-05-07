@@ -166,11 +166,11 @@ content:
           
            - Experienced with Armv7. Armv8.
            - Good Knowledge of Apple M1 Chips and Arm Memory Tagging Extensions.
-              - Learning about new chips for laptops and how it beats intel and amd in branch prediction and cache size but utilizing less Power.
+            - Learning about new chips for laptops and how it beats intel and amd in branch prediction and cache size but utilizing less Power.
            - Debugging Linux Kernel using Qemu.
-              - Learnt Kernel development by debugging it on qemu (Quick Emulator) , best for editing and debugging using GDB and KDB.
+             - Learnt Kernel development by debugging it on qemu (Quick Emulator) , best for editing and debugging using GDB and KDB.
            - Experience in Building AOSP for different Mobile devices.
-              - Built the AOSP for One Plus 6 , Poco F1 and also used linaro Cross Compilers For Project Treble AOSPs.
+             - Built the AOSP for One Plus 6 , Poco F1 and also used linaro Cross Compilers For Project Treble AOSPs.
            - Built a custom operating system for IOT device using Busy Box and Tinacore on Samsung ARTIK 710s (Discontinued).
            - Experience with Windows kernel Degguing using LiveKD and Linux kernel Debugging on Qemu with KDB or GDB.
            - Have Knowledge of Docker , Kuberenetes and Containers (LXC).

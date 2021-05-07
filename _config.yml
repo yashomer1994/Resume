@@ -177,6 +177,13 @@ content:
            - Experience in Windows Kernel Exploitation and Linux Kernel Exploitation.
            - Experience in Binary Fuzzing, Kernel Fuzzing.
            
+- title: Skills
+    layout: list
+    content:
+      - layout: top-right
+        title: Skills
+        quote: >
+           
            
       
  

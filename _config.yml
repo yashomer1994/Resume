@@ -138,15 +138,18 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          I worked as Intern . I have performed on mulitple activities.
-           
-            My Roles:
+          I worked as Intern in CDAC Chennai , My roles were :
+          
            - Writing Kernel Drivers.
+             - Character Device Driver Such as USB.
+             - Block Device Driver such as Filesystem.
            - Contributing in Open Source Linux Kernel Community.
+             - http://lkml.iu.edu/hypermail/linux/kernel/1802.2/00619.html
            - Implementing TPM in Linux Kernel.
-           - Building Linux Kernel Mool for Indian Linux Based BOSS Operating System.
-           - Patching Linux kernel Latest fixes.
-           - Good Experi
+             - Learnt and Compiled Trusted Platform Module in Linux Kernel 4.17
+           - Learnt about Linux Kernel Mool written in C++ and Compiled and merged it with C drivers for Indian Linux Based BOSS Operating System.
+           - Patching Linux kernel Latest fixes in Multiple Linux Kernel Versions, and Learnt about the root cause of issued patches.
+           
            
            
 
@@ -163,12 +166,15 @@ content:
           
            - Experienced with Armv7. Armv8.
            - Good Knowledge of Apple M1 Chips and Arm Memory Tagging Extensions.
+              - Learning about new chips for laptops and how it beats intel and amd in branch prediction and cache size but utilizing less Power.
            - Debugging Linux Kernel using Qemu.
+              - Learnt Kernel development by debugging it on qemu (Quick Emulator) , best for editing and debugging using GDB and KDB.
            - Experience in Building AOSP for different Mobile devices.
-           - Built a custom operating system for IOT device using Busy Box and Tinacore.
-           - Experience with Windows kernel debugging and Security Analysis.
-           - Experience with Docker , Kuberenetes and Containers (LXC).
-           - Experience in Windows Kernel Exploitation.
+              - Built the AOSP for One Plus 6 , Poco F1 and also used linaro Cross Compilers For Project Treble AOSPs.
+           - Built a custom operating system for IOT device using Busy Box and Tinacore on Samsung ARTIK 710s (Discontinued).
+           - Experience with Windows kernel Degguing using LiveKD and Linux kernel Debugging on Qemu with KDB or GDB.
+           - Have Knowledge of Docker , Kuberenetes and Containers (LXC).
+           - Experience in Windows Kernel Exploitation and Linux Kernel Exploitation.
            - Experience in Binary Fuzzing, Kernel Fuzzing.
            
            

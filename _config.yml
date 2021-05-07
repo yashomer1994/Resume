@@ -176,16 +176,7 @@ content:
            - Have Knowledge of Docker , Kuberenetes and Containers (LXC).
            - Experience in Windows Kernel Exploitation and Linux Kernel Exploitation.
            - Experience in Binary Fuzzing, Kernel Fuzzing.
-           
-- title: Skills
-    layout: list
-    content:
-      - layout: top-right
-        title: Skills
-        quote: >
-           
-           
-      
+           - Experience in C, C++, Rust, Python
  
 # Footer
 #footer_show_references: true
